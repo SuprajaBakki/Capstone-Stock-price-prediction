@@ -1,2 +1,2 @@
-# Capstone-Stock-price-prediction
+Stock-price-prediction
 Stock-Investment-Recommendation-System-using-portfolio-system
